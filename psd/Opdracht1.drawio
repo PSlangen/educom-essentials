@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="KR5Hdkx6UJdBO_TZGFnL" name="Page-1">
+        <mxGraphModel dx="1154" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="1 Stap vooruit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="520" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Open deur&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="480" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="1 Stap vooruit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="360" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Draai 90 graden rechts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="320" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Draai 90 graden links" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="400" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="shape=corner;whiteSpace=wrap;html=1;fontSize=15;dx=20;dy=40;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="280" width="140" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Zolang: &lt;br&gt;Geen deur voor je" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="358" y="283" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Draai stoel 180 graden&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="80" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Sta op&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="120" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="shape=corner;whiteSpace=wrap;html=1;fontSize=15;dx=20;dy=40;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="160" width="140" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Zolang: &lt;br&gt;Geen muur voor je" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="358" y="163" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="1 stap vooruit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="200" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Zoek naar deur(klink)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="440" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Zoek naar muur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
