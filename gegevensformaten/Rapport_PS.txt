@@ -1,0 +1,11 @@
+- Markdown bestanden worden gebruikt om geformatteerde tekst simpel en overzichtelijk te  weergeven en bewerken. Markdown bestanden kunnen makkelijk geconverteerd worden naar HTML en andere formaten.
+
+- JSON bestanden bevatten data-objecten die bestaan uit key-value paren die in arrays geordend zijn. JSON wordt voornamelijk gebruikt om data tussen server en webapplicaties uit te wisselen.
+
+- Net als JSON bestanden, worden XML bestanden gebruikt om gegevens over te dragen tussen systemen. XML bestanden bevatten gestructureerde gegevens in de vorm van elementen en attributen.
+
+- SVG bestanden worden gebruikt om illustraties te kunnen tonen welke oneindig geschaald kunnen worden doordat de afstanden en verhoudingen tussen objecten vast staat.
+
+- YAML bestanden worden veel gebruikt voor configuratie files en wordt veel gebruikt omdat het samen gebruikt kan worden met meerdere programmeertalen.
+
+
